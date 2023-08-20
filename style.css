@@ -1,0 +1,88 @@
+body{
+    background-color:white;
+    background-image: url(./assets/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+nav div {
+    background-color: black;
+    height: 100px;
+    width: 1975px;
+    
+
+    
+}
+nav div img{
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+section ul{
+    display: flex;
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+    color: white;
+    gap: 50px;
+    list-style: none;
+   
+    
+}
+div button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 1700px;
+    bottom: 100px;
+    color: white;
+    background-color: rgb(239, 9, 151);
+    height: 60px;
+    width: 160px;
+    border-radius: 10px;
+    
+}
+div h1{
+    display: flex;
+    color:whitesmoke;
+    position: relative;
+    left: 800px;
+    top: 100px;
+    font-size: 60px;
+    
+}
+div p{
+    display: flex;
+    color:whitesmoke;
+    position: relative;
+    left: 850px;
+    top: 160px;
+   
+
+}
+div span{
+    display: flex;
+    position: relative;
+    top: 60px;
+    right: 570px;
+    font-size: 60px;
+}
+nav button{
+    position: relative;
+    left: 915px;
+    top: 200px;
+    color: white;
+    background-color: rgb(239, 9, 151);
+    height: 60px;
+    width: 200px;
+    border-radius: 10px;
+    
+}
